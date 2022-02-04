@@ -1,0 +1,4 @@
+tkinter
+PyPDF2
+gtts
+playsound
